@@ -1,0 +1,1 @@
+PageText = dict[int, str]
